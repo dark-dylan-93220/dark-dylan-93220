@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++, Unreal Engine, C# and Unity**
 
-- 👨‍💻 All of my projects are available at [https://dylan-hollemaert.fr/projets/](https://dylan-hollemaert.fr#projets/)
+- 👨‍💻 All of my projects are available at [https://dylan-hollemaert.fr/projets/](https://www.dylan-hollemaert.fr/#projets)
 
 - 📫 How to reach me **dhollemaert@gaming.tech**
 
