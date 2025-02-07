@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-dylan-93220&label=Profile%20views&color=0e75b6&style=flat" alt="dark-dylan-93220" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dark-dylan-93220" alt="dark-dylan-93220" /></a> </p>
-
 - ⭐ My latest projects [The Legend Of Link](https://github.com/dark-dylan-93220/TheLegendOfLink)
 
 - 🌱 I’m currently learning **C++, C# and Unity**
