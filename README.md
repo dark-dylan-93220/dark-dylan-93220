@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-dylan-93220&label=Profile%20views&color=0e75b6&style=flat" alt="dark-dylan-93220" /> </p>
 
-- ⭐ My latest projects [The Legend Of Link](https://github.com/dark-dylan-93220/TheLegendOfLink)
+- ⭐ My latest project [Projet IA](https://github.com/dark-dylan-93220/ProjetIA)
 
 - 🌱 I’m currently learning **C++, Unreal Engine, C# and Unity**
 
