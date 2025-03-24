@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Dylan</h1>
 <h3 align="center">A passionate C++ student developper</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-dylan-93220&label=Profile%20views&color=0e75b6&style=flat" alt="dark-dylan-93220" /> </p>
-
 - ⭐ My latest project [Projet IA](https://github.com/dark-dylan-93220/ProjetIA)
 
 - 🌱 I’m currently learning **C++, Unreal Engine, C# and Unity**
 
-- 👨‍💻 All of my projects are available at [https://dylan-hollemaert.fr/projets/](https://www.dylan-hollemaert.fr/#projets)
+- 👨‍💻 All of my projects are available in this page!
 
 - 📫 How to reach me **dhollemaert@gaming.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dylan-hollemaert-89b6b91b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dylan-hollemaert-89b6b91b9" height="30" width="40" /></a>
-<a href="https://discord.com/users/620275140420173845" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="620275140420173845" height="30" width="40" /></a>
+<a href="https://discord.com/users/620275140420173845" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt="620275140420173845" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
