@@ -3,7 +3,7 @@
 
 - ⭐ My latest project [TheLegendOfLink](https://github.com/dark-dylan-93220/TheLegendOfLink)
 
-- 🌱 I’m currently learning **C++, Unreal Engine, C# and Unity**
+- 🌱 I’m currently learning **C++, Vulkan, C#, Unity and Android Studio (Kotlin)**
 
 - 👨‍💻 All of my projects are available in this page!
 
