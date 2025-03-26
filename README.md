@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **C++, Vulkan, C#, Unity and Android Studio (Kotlin)**
 
-- 👨‍💻 All of my projects are available in this page!
-
 - 📫 How to reach me **dhollemaert@gaming.tech**
 
 <h3 align="left">Connect with me:</h3>
