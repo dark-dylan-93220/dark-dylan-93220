@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dylan</h1>
 <h3 align="center">A passionate C++ student developper</h3>
 
-- ⭐ My latest project [TheLegendOfLink](https://github.com/dark-dylan-93220/TheLegendOfLink)
+- ⭐ My latest project [ProjetIA](https://github.com/dark-dylan-93220/ProjetIA)
 
 - 🌱 I’m currently learning **C++, Vulkan, C#, Unity and Android Studio (Kotlin)**
 
