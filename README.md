@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++, Vulkan, C#, Unity and Android Studio (Kotlin)**
 
-- 📫 How to reach me **dhollemaert@gaming.tech**
+- 📫 How to reach me **hollemaertdylan@gmail.com** or **dhollemaert@gaming.tech**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
