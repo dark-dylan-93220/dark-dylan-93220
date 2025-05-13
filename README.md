@@ -8,6 +8,7 @@
 - 📫 How to reach me **hollemaertdylan@gmail.com** or **dhollemaert@gaming.tech**
 
 <h3 align="left">Connect with me :</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/dylan-hollemaert-89b6b91b9" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="dylan-hollemaert-89b6b91b9" height="40" width="40" /></a>
 <a href="https://discord.com/users/620275140420173845" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-square-color-icon.svg" alt="https://discord.com/users/620275140420173845" height="40" width="40" /></a>
